@@ -1,0 +1,3 @@
+[submodule "alpakka-blog-post"]
+	path = alpakka-blog-post
+	url = git@github.com:richardimaoka/alpakka-blog-post.git
